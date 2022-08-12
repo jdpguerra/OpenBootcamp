@@ -83,3 +83,12 @@ else if(introduccion =="1.5"){
  //pycharm
  //notepad++
 }
+else if(introduccion =="1.6"){
+//version de archivos
+//control de versiones
+//cvs > concurrent version system
+//svn > subversion
+//Git
+//Github & gitlab
+
+}
