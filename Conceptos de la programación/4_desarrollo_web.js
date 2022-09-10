@@ -54,6 +54,54 @@ else if(introduccion == "4.3"){
 else if(introduccion == "4.4"){
 //una seria de libreria que facilita la creacion
 //no son lenguajes de programacion pero que complementan
-
+//framework  del servidor
+//framework de pruebas unitarias
+//pytes > python
+//jest > javascript
+//Junit > java
+//phpUnit > php
+//Unit and  xunit.net > .net
+//
 
 }
+
+else if(introduccion == "4.5"){
+//librerias 
+//Jquery
+//bostrap
+//React
+//DOM    
+    }
+
+else if(introduccion == "4.6"){
+//Servidores
+//Apache
+//OpenLiteSpeed
+//NodeJs
+//Nnginx
+//Apache tomcat
+//Microsoft IIS
+
+
+            }
+else if(introduccion == "4.7"){
+//Chrome
+//Firefox
+//Microsoft Edge
+//Safari
+//Opera
+//Brave    
+                
+   }
+else if(introduccion == "4.8"){
+//Stacks
+//Wamp
+//Lamp
+//Xampp
+//Mearn
+//Mean
+//Mevn
+//Pern
+//conjunto de tecnologia de hacem parte de um desarrollo backen y frontend  
+                    
+       }
