@@ -1,9 +1,8 @@
 # OpenBootcamp
 Hoja de ruta de OpenBootcamp, enfocada en el aprendizaje de 0 a desarrollador.
 
-Open BootCamp
+Curso FullStack de 0 a Dev.
 
-Curso FullStack de 0 a Dev
 1.Conceptos de la Programación
 
 2.Introducción a la programación
