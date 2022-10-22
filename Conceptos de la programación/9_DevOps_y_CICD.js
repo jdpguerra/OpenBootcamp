@@ -16,6 +16,7 @@ if(introduccion == "9.1"){
 //gitlabs > gitlab CI
 //github > github actions
 //bitbucket > bitbucket pipelines
+//codigo se publique si todos los teste unitarios en github
 
 
 } 
